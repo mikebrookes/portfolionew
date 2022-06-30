@@ -1,0 +1,20 @@
+{
+  "name": "web-developer-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of michael brookes",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass scss/main.scss css/main.css"
+  },
+  "keywords": [
+    "michael",
+    "brookes",
+    "portfolio",
+    "web-dev"
+  ],
+  "author": "Michael Brookes",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}
